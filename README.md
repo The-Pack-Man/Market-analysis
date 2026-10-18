@@ -1,5 +1,7 @@
 # SignalCanvas
 
+[![tests](https://github.com/The-Pack-Man/Market-analysis/actions/workflows/tests.yml/badge.svg)](https://github.com/The-Pack-Man/Market-analysis/actions/workflows/tests.yml)
+
 SignalCanvas is a local-first Streamlit app for conversational stock analysis. It routes natural-language questions through a constrained agent, retrieves data from DuckDB, renders validated Plotly charts, runs baseline forecasts, evaluates groundedness, and logs analyses for review.
 
 ## Features
